@@ -1,0 +1,2 @@
+# RMS
+I develope result managment system project, as we know every time teacher need to enter marks in  Excel and after that share this student marks to  ERP so it require more time as compare to my project ,Here I develop TWO module Student And Teacher In that teacher can be enter there student marks on own side and after entering all student marks HOD will declare result. Also I develop =Calculation||Ranking||Slow Learner And Fast Learner\\ System In this project
